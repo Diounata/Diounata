@@ -4,7 +4,7 @@
 <p align="left"> 
 I am Jonatham Luz (also known as Diou), a self-taught web developer focusing on frontend using technologies such as React.js. 
 
-Currently I'm at high school with technical course in T.I, studying and practicing my knowledge in personal projects. You may get access at this in my GitHub profile.
+Currently I'm cursing I.T at high school, studying and practicing my knowledge in personal projects. You can access it in my GitHub profile.
 
 I intend to work on this area soon. I'm open for new experiences.
 
