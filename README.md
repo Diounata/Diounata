@@ -10,7 +10,7 @@ Currently, I am pursuing a degree in analysis and systems development.
 I am open to new experiences and always striving for continuous improvement. 🚀
 </p>
 
-## 📬 You may get contact me:
+## 📬 Contact:
 
 <p>
   <a href="https://www.linkedin.com/in/jonatham-luz/" target="_blank">
