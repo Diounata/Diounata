@@ -5,9 +5,11 @@
 <p align="left"> 
 I am Jonatham Luz, also known as Diou, a self-taught web developer with a focus on frontend technologies such as React.js.
 
-Currently, I am pursuing a degree in analysis and systems development.
+🎓 Currently, I am pursuing a degree in analysis and systems development, complementing my self-taught journey with formal education.
 
-I am open to new experiences and always striving for continuous improvement. 🚀
+💼 Additionally, I have gained valuable professional work experience through freelance projects and other endeavors, improving my skills and expanding my knowledge in web development.
+
+🌟 Feel free to get in touch with me! I am open to new experiences and always striving for continuous improvement. Let's connect and collaborate! 🚀
 </p>
 
 ## 📬 Contact:
