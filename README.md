@@ -11,11 +11,3 @@ I am Jonatham Luz, also known as Diou, a self-taught full-stack web developer.
 
 🌟 Feel free to get in touch with me! I am open to new experiences and always striving for continuous improvement. Let's connect and collaborate! 🚀
 </p>
-
-## 📬 Contact:
-
-<p>
-  <a href="https://www.linkedin.com/in/jonatham-luz/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
-  </a>
-</p>
